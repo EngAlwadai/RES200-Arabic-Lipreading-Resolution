@@ -1,4 +1,4 @@
-# Effect of Mouth-Region Spatial Resolution on Arabic Lip-Reading Recognition Accuracy
+# Arabic Word-Level Lip Reading at Reduced Resolution: A Comparative Study of 2D and 3D Models
 
 Code and results for the paper by **Saeed Alwadai** and **Sadam Al Azani** (King Fahd University of Petroleum and Minerals).
 
@@ -61,8 +61,7 @@ Daou, S., Ben-Hamadou, A., Rekik, A. & Kallel, A. Cross-attention fusion of visu
 large-vocabulary Arabic lipreading. *Technologies* 13, 26 (2025).
 
 ## Acknowledgements
-Supported by King Fahd University of Petroleum and Minerals (RES-200 undergraduate research) and the
-SDAIA–KFUPM Joint Research Center for Artificial Intelligence (JRCAI).
+The authors thank the SDAIA–KFUPM Joint Research Center for Artificial Intelligence (JRCAI) at King Fahd University of Petroleum and Minerals for its support.
 
 ## License
 MIT (see `LICENSE`).
